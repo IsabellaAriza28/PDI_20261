@@ -1,4 +1,4 @@
-# 🧠 Procesamiento de Imágenes Médicas 2026-1
+# Procesamiento de Imágenes Médicas 2026-1
 
 Repositorio del curso **Procesamiento de Imágenes Médicas**, donde exploramos técnicas computacionales para analizar imágenes médicas como **CT, MRI, US y rayos X**.
 
@@ -6,7 +6,7 @@ El curso cubre desde **visualización de datos médicos** hasta **segmentación 
 
 ---
 
-# 🎯 Objetivos del curso
+# Objetivos del curso
 
 Al finalizar este curso podrás:
 
@@ -19,7 +19,7 @@ Al finalizar este curso podrás:
 
 ---
 
-# 🧰 Tecnologías utilizadas
+# Tecnologías utilizadas
 
 El curso utiliza principalmente **Python** y el ecosistema científico.
 
@@ -35,7 +35,7 @@ Principales librerías:
 
 ---
 
-# 💻 Software recomendado
+# Software recomendado
 
 Para visualizar y explorar imágenes médicas se recomienda instalar alguno de los siguientes visores:
 
