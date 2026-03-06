@@ -1,4 +1,4 @@
-# Procesamiento de Imágenes Médicas 2026-1
+# Procesamiento Digital de Imágenes (PDI) 2026-1
 
 Repositorio del curso **Procesamiento de Imágenes Médicas**, donde exploramos técnicas computacionales para analizar imágenes médicas como **CT, MRI, US y rayos X**.
 
